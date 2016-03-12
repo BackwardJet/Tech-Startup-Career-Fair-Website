@@ -5345,6 +5345,16 @@ button[type="submit"] .loading {
   font-weight: 700;
   line-height: 100px;
 }
+
+.counter-box .counter-content > .count_edited {
+  display: inline-block;
+  width: 100%;
+  font-family: "PT Sans Caption", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 100px;
+}
+
 .counter-box .counter-content > .fa {
   width: 100%;
   font-size: 78px;
